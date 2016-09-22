@@ -7,12 +7,17 @@
 
 ## Contents
  - [Getting Started](#getting-started)
+ - [Sass vs SCSS](#sass-vs-scss)
  - [Libraries](#libraries)
  - [Style guides](#style-guides)
 
 ## Getting Started
  - [SCSS Basics](http://sass-lang.com/guide) - Official SCSS guide.
  - [Tutorialzine](http://tutorialzine.com/2016/01/learn-sass-in-15-minutes/) - Learn SASS in 15 minutes tutorial.
+
+## Sass vs SCSS
+ - [SitePoint](https://www.sitepoint.com/whats-difference-sass-scss/) - What’s the difference between Sass and SCSS?
+ - [The Sass Way](http://thesassway.com/editorial/sass-vs-scss-which-syntax-is-better) - Which syntax is better?
 
 ## Libraries
 
