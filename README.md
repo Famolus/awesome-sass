@@ -8,7 +8,7 @@
 ## Contents
  - [Getting Started](#getting-started)
  - [Sass vs SCSS](#sass-vs-scss)
- - [Libraries](#libraries)
+ - [Libraries and Mixins](#libraries-and-mixins)
  - [Style guides](#style-guides)
 
 ## Getting Started
@@ -19,7 +19,7 @@
  - [SitePoint](https://www.sitepoint.com/whats-difference-sass-scss/) - What’s the difference between Sass and SCSS?
  - [The Sass Way](http://thesassway.com/editorial/sass-vs-scss-which-syntax-is-better) - Which syntax is better?
 
-## Libraries
+## Libraries and Mixins
 
 ## Style Guides
  - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
