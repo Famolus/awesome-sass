@@ -9,7 +9,6 @@
  - [Getting Started](#getting-started)
  - [Libraries](#libraries)
  - [Style guides](#style-guides)
- - [Community](#community)
 
 ## Getting Started
 
