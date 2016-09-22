@@ -11,6 +11,8 @@
  - [Style guides](#style-guides)
 
 ## Getting Started
+ - [SCSS Basics](http://sass-lang.com/guide) - Official SCSS guide.
+ - [Tutorialzine](http://tutorialzine.com/2016/01/learn-sass-in-15-minutes/) - Learn SASS in 15 minutes tutorial.
 
 ## Libraries
 
