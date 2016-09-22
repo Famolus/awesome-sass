@@ -22,6 +22,7 @@
 ## Libraries
 
 ## Style Guides
+ - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
 
 
 ## License
