@@ -5,7 +5,7 @@
 - Use <kbd>command</kbd> + <kbd>F</kbd> or <kbd>ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
 - Contributions welcome, please see [contribution guide](contributing.md).
 
-## Table of Contents
+## Contents
  - [Getting Started](#getting-started)
  - [Libraries](#libraries)
  - [Style guides](#style-guides)
