@@ -1,6 +1,6 @@
 # Awesome SCSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome SCSS libraries, style guides, articles, and resources.
+> A curated list of awesome SCSS frameworks, libraries, style guides, articles, and resources.
 
 - Use <kbd>command</kbd> + <kbd>F</kbd> or <kbd>ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
 - Contributions welcome, please see [contribution guide](contributing.md).
