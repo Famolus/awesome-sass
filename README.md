@@ -16,6 +16,7 @@
 ## Getting Started
 - [SCSS Basics](http://sass-lang.com/guide) - Official SCSS guide.
 - [Tutorialzine](http://tutorialzine.com/2016/01/learn-sass-in-15-minutes/) - Learn SASS in 15 minutes tutorial.
+- [Codecademy](https://www.codecademy.com/learn/learn-sass) - Learn Sass
 
 ## Sass vs SCSS
 - [SitePoint](https://www.sitepoint.com/whats-difference-sass-scss/) - What’s the difference between Sass and SCSS?
