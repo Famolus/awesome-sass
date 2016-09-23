@@ -30,6 +30,7 @@
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
 - [Family.scss](http://lukyvj.github.io/family.scss/) - A set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
 - [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
+- [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in SASS.
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
