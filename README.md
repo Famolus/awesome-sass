@@ -40,6 +40,7 @@
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
 - [Gridlex](http://gridlex.devlint.fr/) - Flexbox grid system.
+- [Neat](http://neat.bourbon.io/) - A lightweight semantic grid framework built with Sass.
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
