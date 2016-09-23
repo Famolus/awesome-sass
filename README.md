@@ -10,7 +10,7 @@
 - [Sass vs SCSS](#sass-vs-scss)
 - [Frameworks](#frameworks)
 - [Libraries and Mixins](#libraries-and-mixins)
-- [Style guides](#style-guides)
+- [Style Guides](#style-guides)
 
 ## Getting Started
 - [SCSS Basics](http://sass-lang.com/guide) - Official SCSS guide.
