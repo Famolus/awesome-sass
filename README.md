@@ -34,6 +34,7 @@
 - [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
 - [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
 - [Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass.
+- [Sass MediaQueries](https://github.com/paranoida/sass-mediaqueries) - Media Queries mixins for Sass.
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
