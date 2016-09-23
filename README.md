@@ -35,6 +35,7 @@
 - [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
 - [Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass.
 - [Sass MediaQueries](https://github.com/paranoida/sass-mediaqueries) - Media Queries mixins for Sass.
+- [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
