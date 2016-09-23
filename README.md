@@ -26,6 +26,7 @@
  - [Foundation for Sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 
 ## Libraries and Mixins
+ - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
 
 ## Style Guides
  - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
