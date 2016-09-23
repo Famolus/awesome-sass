@@ -40,6 +40,7 @@
 - [Sass MediaQueries](https://github.com/paranoida/sass-mediaqueries) - Media Queries mixins for Sass.
 - [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
 - [Modular Scale](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass.
+- [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
