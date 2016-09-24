@@ -43,6 +43,7 @@
 - [Modular Scale](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass.
 - [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
 - [Scut](https://github.com/davidtheclark/scut) - A collection of Sass utilities to ease and improve the implementations of common style-code patterns.
+- [Sass Burger](https://github.com/jorenvanhee/sass-burger) - A Sass mixin for creating hamburger icons.
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
