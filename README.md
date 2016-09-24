@@ -49,6 +49,7 @@
 - [Neat](http://neat.bourbon.io/) - A lightweight semantic grid framework built with Sass.
 - [SCSS Flexible Grid System](http://flexible.gs/install/scss) - SCSS flexible grid system.
 - [Sass Flexible Grid System](http://flexible.gs/install/sass) - Sass flexible grid system.
+- [Susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass.
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
