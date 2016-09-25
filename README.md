@@ -46,6 +46,7 @@
 - [Scut](https://github.com/davidtheclark/scut) - A collection of Sass utilities to ease and improve the implementations of common style-code patterns.
 - [Sass Burger](https://github.com/jorenvanhee/sass-burger) - A Sass mixin for creating hamburger icons.
 - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - A set of SCSS mixins for single element loaders and spinners.
+- [Animate.scss](https://github.com/geoffgraham/animate.scss) -  A port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
