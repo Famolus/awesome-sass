@@ -50,6 +50,7 @@
 - [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - A set of mixins for those who want to mess around with flexbox using the native support of current browsers.
 - [Sass MediaQueries](http://paranoida.github.io/sass-mediaqueries/) - A collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
+- [Angled Edges](https://github.com/josephfusco/angled-edges) - A Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
