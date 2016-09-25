@@ -48,7 +48,8 @@
 - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - A set of SCSS mixins for single element loaders and spinners.
 - [Animate.scss](https://github.com/geoffgraham/animate.scss) -  A port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
 - [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
-- [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - A set of mixins for those who want to mess around with flexbox using the native support of current browsers. 
+- [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - A set of mixins for those who want to mess around with flexbox using the native support of current browsers.
+- [Sass MediaQueries](http://paranoida.github.io/sass-mediaqueries/) - A collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
