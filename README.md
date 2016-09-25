@@ -47,6 +47,7 @@
 - [Sass Burger](https://github.com/jorenvanhee/sass-burger) - A Sass mixin for creating hamburger icons.
 - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - A set of SCSS mixins for single element loaders and spinners.
 - [Animate.scss](https://github.com/geoffgraham/animate.scss) -  A port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
+- [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
