@@ -12,7 +12,7 @@
 - [Libraries and Mixins](#libraries-and-mixins)
   - [Grid](#grid)
 - [Style Guides](#style-guides)
-- [Articles](#articles)
+- [Articles and Resources](#articles-and-resources)
 
 ## Getting Started
 - [Official Sass and SCSS Guide](http://sass-lang.com/guide) - Official Sass and SCSS guide.
@@ -68,7 +68,7 @@
 - [edX Sass and CSS Style Guide](https://github.com/edx/ux-pattern-library/wiki/Styleguide:-Sass-&-CSS) - Sass and CSS style guide by edX.
 - [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
 
-## Articles
+## Articles and Resources
 
 
 ## License
