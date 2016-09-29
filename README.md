@@ -70,7 +70,7 @@
 
 ## Articles and Resources
 - [Hugo Giraudel Personal Awesome Sass List](https://github.com/HugoGiraudel/awesome-sass) - Records of Hugo Giraudel's works on Sass. 
-- [Cubic Bézier Representation in Sass](http://thesassway.com/advanced/cubic-bezier-representation-in-sass)
+- [Cubic Bézier representation in Sass](http://thesassway.com/advanced/cubic-bezier-representation-in-sass)
 - [Faster SASS builds With Webpack](http://eng.localytics.com/faster-sass-builds-with-webpack/)
 
 ## License
