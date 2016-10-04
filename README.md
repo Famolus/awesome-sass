@@ -53,6 +53,7 @@
 - [Sass MediaQueries](http://paranoida.github.io/sass-mediaqueries/) - A collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
 - [Angled Edges](https://github.com/josephfusco/angled-edges) - A Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
 - [Hover](http://ianlunn.github.io/Hover/) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
+- [retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
