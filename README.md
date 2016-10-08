@@ -33,6 +33,7 @@
 - [Foundation for Sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
 - [Scooter](http://dropbox.github.io/scooter/) - An SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
+- [Sierra](http://sierra-library.github.io/) - A micro SCSS library to help you build websites, without all the arbitrary selectors.
 
 ## Libraries and Mixins
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
