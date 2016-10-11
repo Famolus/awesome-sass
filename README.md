@@ -36,6 +36,7 @@
 - [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
 - [Scooter](http://dropbox.github.io/scooter/) - An SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 - [Sierra](http://sierra-library.github.io/) - A micro SCSS library to help you build websites, without all the arbitrary selectors.
+- [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
 
 ## Libraries and Mixins
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
@@ -61,6 +62,7 @@
 - [Open color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 - [Sass Accoutrement](http://oddbird.net/accoutrement/) - Accoutrement modules are Sass toolkits that work together to form the central configuration of a project. The tools can be used individually, or integrated for extra power.
 - [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
+- [Sass MQ](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
