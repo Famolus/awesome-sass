@@ -65,7 +65,6 @@
 - [Sass MQ](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
 - [Sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
 
-
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
 - [Gridlex](http://gridlex.devlint.fr/) - Flexbox grid system.
