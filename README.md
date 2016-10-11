@@ -39,6 +39,7 @@
 - [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
 
 ## Libraries and Mixins
+- [Sassdash](http://davidkpiano.github.io/sassdash) - The Sass implementation of lodash.
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
 - [Family.scss](http://lukyvj.github.io/family.scss/) - A set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
 - [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
