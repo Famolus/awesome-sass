@@ -71,6 +71,7 @@
 - [SCSS Flexible Grid System](http://flexible.gs/install/scss) - SCSS flexible grid system.
 - [Sass Flexible Grid System](http://flexible.gs/install/sass) - Sass flexible grid system.
 - [Susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass.
+- [Avalanche](http://colourgarden.net/avalanche) - Lightweight, responsive, Sass-based, BEM-syntax grid system.
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
