@@ -33,12 +33,12 @@
 - [Bootstrap 4](https://github.com/twbs/bootstrap) - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Bootstrap 3](https://github.com/twbs/bootstrap-sass) - Bootstrap version 3, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Foundation for Sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-- [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
 - [Scooter](http://dropbox.github.io/scooter/) - An SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 - [Sierra](http://sierra-library.github.io/) - A micro SCSS library to help you build websites, without all the arbitrary selectors.
 - [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
 
 ## Libraries and Mixins
+- [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
 - [Family.scss](http://lukyvj.github.io/family.scss/) - A set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
 - [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
