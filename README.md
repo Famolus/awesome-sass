@@ -36,6 +36,7 @@
 - [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
 - [Scooter](http://dropbox.github.io/scooter/) - An SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 - [Sierra](http://sierra-library.github.io/) - A micro SCSS library to help you build websites, without all the arbitrary selectors.
+- [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
 
 ## Libraries and Mixins
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
