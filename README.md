@@ -37,6 +37,7 @@
 - [Sierra](http://sierra-library.github.io/) - A micro SCSS library to help you build websites, without all the arbitrary selectors.
 - [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
 - [Hocus-Pocus](http://hocus-pocus.io) - A universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
+- [JustMy.scss](http://kylebrumm.com/justmy.scss/) - Another stupid SCSS framework, but it's just mine.
 
 ## Libraries and Mixins
 - [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
@@ -65,7 +66,6 @@
 - [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
 - [Sass MQ](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
 - [Sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
-- [Juice](http://kylebrumm.com/juice/) - A collection of Sass mixins/functions.
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
