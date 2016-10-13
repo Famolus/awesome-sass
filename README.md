@@ -32,6 +32,7 @@
 ## Frameworks
 - [Bootstrap 4](https://github.com/twbs/bootstrap) - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Bootstrap 3](https://github.com/twbs/bootstrap-sass) - Bootstrap version 3, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+- [Materialize](http://materializecss.com) - A modern responsive front-end framework based on Material Design
 - [Foundation for Sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [Scooter](http://dropbox.github.io/scooter/) - An SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 - [Sierra](http://sierra-library.github.io/) - A micro SCSS library to help you build websites, without all the arbitrary selectors.
