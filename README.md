@@ -37,6 +37,7 @@
 - [Sierra](http://sierra-library.github.io/) - A micro SCSS library to help you build websites, without all the arbitrary selectors.
 - [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
 - [Hocus-Pocus](http://hocus-pocus.io) - A universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
+- [Materialize](http://materializecss.com) - A modern responsive front-end framework based on Material Design.
 
 ## Libraries and Mixins
 - [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
