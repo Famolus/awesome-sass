@@ -40,6 +40,7 @@
 - [Materialize](http://materializecss.com) - A modern responsive front-end framework based on Material Design.
 
 ## Libraries and Mixins
+- [SassMagic](https://github.com/w3cplus/SassMagic) - SassMagic is a collection of Sass mixins and functions to ease and improve our implementations of common style-code patterns.
 - [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
 - [Family.scss](http://lukyvj.github.io/family.scss/) - A set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
