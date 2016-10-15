@@ -73,6 +73,7 @@
 - [Sass Flexible Grid System](http://flexible.gs/install/sass) - Sass flexible grid system.
 - [Susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass.
 - [Avalanche](http://colourgarden.net/avalanche) - Lightweight, responsive, Sass-based, BEM-syntax grid system.
+- [Toast](http://daneden.github.io/Toast/) - A flexible and lightweight grid framework from the creator of [animate.css](https://daneden.github.io/animate.css/).
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
@@ -82,7 +83,7 @@
 - [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
 
 ## Articles and Resources
-- [Hugo Giraudel Personal Awesome Sass List](https://github.com/HugoGiraudel/awesome-sass) - Records of Hugo Giraudel's works on Sass. 
+- [Hugo Giraudel Personal Awesome Sass List](https://github.com/HugoGiraudel/awesome-sass) - Records of Hugo Giraudel's works on Sass.
 - [Cubic Bézier Representation in Sass](http://thesassway.com/advanced/cubic-bezier-representation-in-sass)
 - [Faster Sass builds with Webpack](http://eng.localytics.com/faster-sass-builds-with-webpack/)
 - [Transitioning to SCSS at Scale](https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/)
