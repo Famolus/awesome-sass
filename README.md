@@ -13,6 +13,11 @@
 - [Frameworks](#frameworks)
 - [Libraries and Mixins](#libraries-and-mixins)
   - [Grid](#grid)
+  - [Media Queries](#media-queries)
+  - [Color](#color)
+  - [Typography](#typography)
+  - [Animation](#animation)
+  - [Miscellaneous](#miscellaneous)
 - [Style Guides](#style-guides)
 - [Articles and Resources](#articles-and-resources)
 
@@ -40,32 +45,6 @@
 - [Materialize](http://materializecss.com) - A modern responsive front-end framework based on Material Design.
 
 ## Libraries and Mixins
-- [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
-- [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
-- [Family.scss](http://lukyvj.github.io/family.scss/) - A set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
-- [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
-- [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
-- [Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass.
-- [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
-- [Modular Scale](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass.
-- [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
-- [Scut](https://github.com/davidtheclark/scut) - A collection of Sass utilities to ease and improve the implementations of common style-code patterns.
-- [Sass Burger](https://github.com/jorenvanhee/sass-burger) - A Sass mixin for creating hamburger icons.
-- [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - A set of SCSS mixins for single element loaders and spinners.
-- [Animate.scss](https://github.com/geoffgraham/animate.scss) -  A port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
-- [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
-- [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - A set of mixins for those who want to mess around with flexbox using the native support of current browsers.
-- [Sass MediaQueries](http://paranoida.github.io/sass-mediaqueries/) - A collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
-- [Angled Edges](https://github.com/josephfusco/angled-edges) - A Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
-- [Hover](http://ianlunn.github.io/Hover/) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
-- [retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
-- [Typi](https://github.com/zellwk/typi) - A sass mixin to make responsive typography easy.
-- [Open color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
-- [Sass Accoutrement](http://oddbird.net/accoutrement/) - Accoutrement modules are Sass toolkits that work together to form the central configuration of a project. The tools can be used individually, or integrated for extra power.
-- [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
-- [Sass MQ](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
-- [Sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
-- [Juice](http://kylebrumm.com/juice/) - A collection of Sass mixins and functions.
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
@@ -76,6 +55,42 @@
 - [Susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass.
 - [Avalanche](http://colourgarden.net/avalanche) - Lightweight, responsive, Sass-based, BEM-syntax grid system.
 - [Toast](http://daneden.github.io/Toast/) - A flexible and lightweight grid framework from the creator of [animate.css](https://daneden.github.io/animate.css/).
+
+###Media Queries
+- [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
+- [Sass MediaQueries](http://paranoida.github.io/sass-mediaqueries/) - A collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
+- [Sass MQ](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
+
+###Color
+- [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
+- [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
+- [Open color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
+
+###Typography
+- [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
+- [Typi](https://github.com/zellwk/typi) - A sass mixin to make responsive typography easy.
+- [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
+
+###Animation
+- [Sass Burger](https://github.com/jorenvanhee/sass-burger) - A Sass mixin for creating animated hamburger icon.
+- [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - A set of SCSS mixins for single element loaders and spinners.
+- [Animate.scss](https://github.com/geoffgraham/animate.scss) -  A port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
+- [Hover](http://ianlunn.github.io/Hover/) - A collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
+
+###Miscellaneous
+- [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
+- [Family.scss](http://lukyvj.github.io/family.scss/) - A set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
+- [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
+- [Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass.
+- [Modular Scale](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass.
+- [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
+- [Scut](https://github.com/davidtheclark/scut) - A collection of Sass utilities to ease and improve the implementations of common style-code patterns.
+- [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - A set of mixins for those who want to mess around with flexbox using the native support of current browsers.
+- [Angled Edges](https://github.com/josephfusco/angled-edges) - A Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
+- [retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
+- [Sass Accoutrement](http://oddbird.net/accoutrement/) - Accoutrement modules are Sass toolkits that work together to form the central configuration of a project. The tools can be used individually, or integrated for extra power.
+- [Sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
+- [Juice](http://kylebrumm.com/juice/) - A collection of Sass mixins and functions.
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
