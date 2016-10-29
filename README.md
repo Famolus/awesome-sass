@@ -60,6 +60,7 @@
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
 - [Sass MediaQueries](http://paranoida.github.io/sass-mediaqueries/) - A collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
 - [Sass MQ](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
+- [Breakpoint](https://github.com/at-import/breakpoint) - Breakpoint makes writing media queries in Sass super simple.
 
 ###Color
 - [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
