@@ -1,6 +1,6 @@
 ![Awesome SCSS](https://raw.githubusercontent.com/Famolus/awesome-scss/master/awesome-scss-logo.png)
 
-# Awesome SCSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Sass [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
 
