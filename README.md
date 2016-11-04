@@ -20,6 +20,7 @@
   - [Miscellaneous](#miscellaneous)
 - [Style Guides](#style-guides)
 - [Articles and Resources](#articles-and-resources)
+- [Community](#community)
 
 ## Getting Started
 - [Official Sass and SCSS Guide](http://sass-lang.com/guide) - Official Sass and SCSS guide.
@@ -110,6 +111,11 @@
 - [Stop Arguing So Much with Your Mixins](http://sassbreak.com/stop-arguing-with-your-mixins)
 - [Styling React Components in Sass](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/)
 - [A Sass !default use case](https://robots.thoughtbot.com/sass-default)
+
+## Community
+- [Reddit](https://www.reddit.com/r/Sass/)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/sass)
+- [@SassCSS on Twitter](https://twitter.com/SassCSS)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
