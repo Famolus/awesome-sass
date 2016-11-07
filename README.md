@@ -73,6 +73,7 @@
 - [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
 - [Typi](https://github.com/zellwk/typi) - A sass mixin to make responsive typography easy.
 - [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
+- [Shevy](http://kyleshevlin.github.io/shevy/) - Typography made easy. A vertical rhythm library.
 
 ###Animation
 - [Sass Burger](https://github.com/jorenvanhee/sass-burger) - A Sass mixin for creating animated hamburger icon.
