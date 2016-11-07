@@ -20,6 +20,7 @@
   - [Miscellaneous](#miscellaneous)
 - [Style Guides](#style-guides)
 - [Articles and Resources](#articles-and-resources)
+- [Tools](#tools)
 - [Community](#community)
 
 ## Getting Started
@@ -111,6 +112,9 @@
 - [Stop Arguing So Much with Your Mixins](http://sassbreak.com/stop-arguing-with-your-mixins)
 - [Styling React Components in Sass](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/)
 - [A Sass !default use case](https://robots.thoughtbot.com/sass-default)
+
+## Tools
+- [libsass](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
 
 ## Community
 - [Reddit](https://www.reddit.com/r/Sass/)
