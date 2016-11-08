@@ -116,6 +116,7 @@
 
 ## Tools
 - [libsass](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
+- [dart-sass](https://github.com/sass/dart-sass) - Dart implementation of Sass.
 
 ## Community
 - [Reddit](https://www.reddit.com/r/Sass/)
