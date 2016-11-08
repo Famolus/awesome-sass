@@ -87,7 +87,6 @@
 - [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
 - [Buttons](https://github.com/alexwolfe/Buttons) - CSS button library built using Sass and Compass.
 - [Modular Scale](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass.
-- [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
 - [Scut](https://github.com/davidtheclark/scut) - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
 - [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
 - [Angled Edges](https://github.com/josephfusco/angled-edges) - Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
@@ -117,6 +116,7 @@
 ## Tools
 - [libsass](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
 - [dart-sass](https://github.com/sass/dart-sass) - Dart implementation of Sass.
+- [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
 
 ## Community
 - [Reddit](https://www.reddit.com/r/Sass/)
