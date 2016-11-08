@@ -40,28 +40,28 @@
 - [Bootstrap 4](https://github.com/twbs/bootstrap) - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Bootstrap 3](https://github.com/twbs/bootstrap-sass) - Bootstrap version 3, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Foundation for Sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-- [Scooter](http://dropbox.github.io/scooter/) - An SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
-- [Sierra](http://sierra-library.github.io/) - A micro SCSS library to help you build websites, without all the arbitrary selectors.
+- [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
+- [Sierra](http://sierra-library.github.io/) - Micro SCSS library to help you build websites, without all the arbitrary selectors.
 - [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
-- [Hocus-Pocus](http://hocus-pocus.io) - A universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
-- [Materialize](http://materializecss.com) - A modern responsive front-end framework based on Material Design.
+- [Hocus-Pocus](http://hocus-pocus.io) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
+- [Materialize](http://materializecss.com) - Modern responsive front-end framework based on Material Design.
 
 ## Libraries and Mixins
 
 ###Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
 - [Gridlex](http://gridlex.devlint.fr/) - Flexbox grid system.
-- [Neat](http://neat.bourbon.io/) - A lightweight semantic grid framework built with Sass.
+- [Neat](http://neat.bourbon.io/) - Lightweight semantic grid framework built with Sass.
 - [SCSS Flexible Grid System](http://flexible.gs/install/scss) - SCSS flexible grid system.
 - [Sass Flexible Grid System](http://flexible.gs/install/sass) - Sass flexible grid system.
 - [Susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass.
 - [Avalanche](http://colourgarden.net/avalanche) - Lightweight, responsive, Sass-based, BEM-syntax grid system.
-- [Toast](http://daneden.github.io/Toast/) - A flexible and lightweight grid framework from the creator of [animate.css](https://daneden.github.io/animate.css/).
+- [Toast](http://daneden.github.io/Toast/) - Flexible and lightweight grid framework from the creator of [animate.css](https://daneden.github.io/animate.css/).
 
 ###Media Queries
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
-- [Sass MediaQueries](http://paranoida.github.io/sass-mediaqueries/) - A collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
-- [Sass MQ](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
+- [Sass MediaQueries](http://paranoida.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
+- [Sass MQ](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way.
 - [Breakpoint](https://github.com/at-import/breakpoint) - Breakpoint makes writing media queries in Sass super simple.
 
 ###Color
@@ -71,30 +71,30 @@
 
 ###Typography
 - [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
-- [Typi](https://github.com/zellwk/typi) - A sass mixin to make responsive typography easy.
+- [Typi](https://github.com/zellwk/typi) - Sass mixin to make responsive typography easy.
 - [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
 - [Shevy](http://kyleshevlin.github.io/shevy/) - Typography made easy. A vertical rhythm library.
 
 ###Animation
-- [Sass Burger](https://github.com/jorenvanhee/sass-burger) - A Sass mixin for creating animated hamburger icon.
-- [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - A set of SCSS mixins for single element loaders and spinners.
-- [Animate.scss](https://github.com/geoffgraham/animate.scss) -  A port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
-- [Hover](http://ianlunn.github.io/Hover/) - A collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
+- [Sass Burger](https://github.com/jorenvanhee/sass-burger) - Sass mixin for creating animated hamburger icon.
+- [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - Set of SCSS mixins for single element loaders and spinners.
+- [Animate.scss](https://github.com/geoffgraham/animate.scss) -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
+- [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
 
 ###Miscellaneous
-- [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
-- [Family.scss](http://lukyvj.github.io/family.scss/) - A set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
+- [Bourbon](http://bourbon.io/) - Simple and lightweight mixin library for Sass.
+- [Family.scss](http://lukyvj.github.io/family.scss/) - Set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
 - [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
-- [Buttons](https://github.com/alexwolfe/Buttons) - A CSS button library built using Sass and Compass.
+- [Buttons](https://github.com/alexwolfe/Buttons) - CSS button library built using Sass and Compass.
 - [Modular Scale](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass.
 - [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
-- [Scut](https://github.com/davidtheclark/scut) - A collection of Sass utilities to ease and improve the implementations of common style-code patterns.
-- [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - A set of mixins for those who want to mess around with flexbox using the native support of current browsers.
-- [Angled Edges](https://github.com/josephfusco/angled-edges) - A Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
+- [Scut](https://github.com/davidtheclark/scut) - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
+- [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
+- [Angled Edges](https://github.com/josephfusco/angled-edges) - Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
 - [retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
 - [Sass Accoutrement](http://oddbird.net/accoutrement/) - Accoutrement modules are Sass toolkits that work together to form the central configuration of a project. The tools can be used individually, or integrated for extra power.
 - [Sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
-- [Juice](http://kylebrumm.com/juice/) - A collection of Sass mixins and functions.
+- [Juice](http://kylebrumm.com/juice/) - Collection of Sass mixins and functions.
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
