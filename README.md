@@ -19,7 +19,7 @@
   - [Animation](#animation)
   - [Miscellaneous](#miscellaneous)
 - [Style Guides](#style-guides)
-- [Articles and Resources](#articles-and-resources)
+- [Articles](#articles)
 - [Tools](#tools)
 - [Community](#community)
 
@@ -102,7 +102,7 @@
 - [edX Sass and CSS Style Guide](https://github.com/edx/ux-pattern-library/wiki/Styleguide:-Sass-&-CSS) - Sass and CSS style guide by edX.
 - [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
 
-## Articles and Resources
+## Articles
 - [Hugo Giraudel Personal Awesome Sass List](https://github.com/HugoGiraudel/awesome-sass) - Records of Hugo Giraudel's works on Sass.
 - [Cubic Bézier Representation in Sass](http://thesassway.com/advanced/cubic-bezier-representation-in-sass)
 - [Faster Sass builds with Webpack](http://eng.localytics.com/faster-sass-builds-with-webpack/)
