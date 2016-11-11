@@ -115,6 +115,7 @@
 
 ## Tools
 - [libsass](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
+- [node-sass](https://github.com/sass/node-sass) - Node.js bindings to libsass.
 - [dart-sass](https://github.com/sass/dart-sass) - Dart implementation of Sass.
 - [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
 
