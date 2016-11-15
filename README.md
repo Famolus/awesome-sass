@@ -29,6 +29,10 @@
 ## About
 [Sass](http://sass-lang.com/) is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly.
 
+Sass has two syntaxes. The new main syntax (as of Sass 3) is known as "SCSS" (for "Sassy CSS"), and is a superset of CSS's syntax. This means that every valid CSS stylesheet is valid SCSS as well. SCSS files use the extension `.scss`.
+
+The second, older syntax is known as the indented syntax (or just "Sass"). Inspired by Haml's terseness, it's intended for people who prefer conciseness over similarity to CSS. Instead of brackets and semicolons, it uses the indentation of lines to specify blocks. Although no longer the primary syntax, the indented syntax will continue to be supported. Files in the indented syntax use the extension `.sass`.
+
 ## Getting Started
 - [Official Sass and SCSS Guide](http://sass-lang.com/guide) - Official Sass and SCSS guide.
 - [Tutorialzine](http://tutorialzine.com/2016/01/learn-sass-in-15-minutes/) - Learn SASS in 15 minutes tutorial.
