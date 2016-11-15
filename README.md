@@ -22,6 +22,7 @@
 - [Style Guides](#style-guides)
 - [Articles](#articles)
 - [Tools](#tools)
+- [Books](#books)
 - [Community](#community)
 
 ## About
@@ -126,6 +127,12 @@
 - [sass-loader](https://github.com/jtangelder/sass-loader) - Sass loader for webpack.
 - [libsass-python](https://github.com/dahlia/libsass-python) - Binding of libsass for Python.
 - [Scout-App](http://scout-app.io/) - Process your Sass and SCSS files into CSS without needing any knowledge of the command line.
+
+## Books
+- [Sass in the Real World: Book I of IV](https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/)
+- [Sass in the Real World: Book II of IV](https://anotheruiguy.gitbooks.io/sass-in-the-real-world-book-2-of-4/content/)
+- [Jump Start Sass: Get Up to Speed With Sass in a Weekend](https://www.amazon.com/Jump-Start-Sass-Speed-Weekend/dp/0994182678)
+- [Sass and Compass for Designers](https://www.amazon.com/Sass-Compass-Designers-Ben-Frain/dp/1849694540)
 
 ## Community
 - [Reddit](https://www.reddit.com/r/Sass/)
