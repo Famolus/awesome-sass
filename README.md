@@ -120,6 +120,7 @@
 - [dart-sass](https://github.com/sass/dart-sass) - Dart implementation of Sass.
 - [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.
 - [sass-loader](https://github.com/jtangelder/sass-loader) - Sass loader for webpack.
+- [libsass-python](https://github.com/dahlia/libsass-python) - Binding of libsass for Python.
 
 ## Community
 - [Reddit](https://www.reddit.com/r/Sass/)
