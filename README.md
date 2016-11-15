@@ -8,6 +8,7 @@
 - Contributions welcome, please see [contribution guide](contributing.md).
 
 ## Contents
+- [About](#about)
 - [Getting Started](#getting-started)
 - [Sass vs SCSS](#sass-vs-scss)
 - [Frameworks](#frameworks)
@@ -22,6 +23,9 @@
 - [Articles](#articles)
 - [Tools](#tools)
 - [Community](#community)
+
+## About
+[Sass](http://sass-lang.com/) is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly.
 
 ## Getting Started
 - [Official Sass and SCSS Guide](http://sass-lang.com/guide) - Official Sass and SCSS guide.
