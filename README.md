@@ -81,6 +81,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Open color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 
 ###Typography
+- [Shevy](https://github.com/kyleshevlin/shevy) - Typography made easy. A vertical rhythm library.
 - [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
 - [Typi](https://github.com/zellwk/typi) - Sass mixin to make responsive typography easy.
 - [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
