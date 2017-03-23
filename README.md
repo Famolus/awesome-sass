@@ -58,7 +58,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Libraries and Mixins
 
-###Grid
+### Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
 - [Gridlex](http://gridlex.devlint.fr/) - Flexbox grid system.
 - [Neat](http://neat.bourbon.io/) - Lightweight semantic grid framework built with Sass.
@@ -69,30 +69,30 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Toast](http://daneden.github.io/Toast/) - Flexible and lightweight grid framework from the creator of [animate.css](https://daneden.github.io/animate.css/).
 - [Jeet](https://github.com/mojotech/jeet) - Simple fractional grid system for Sass and Stylus.
 
-###Media Queries
+### Media Queries
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
 - [Sass MediaQueries](http://paranoida.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
 - [Sass MQ](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way.
 - [Breakpoint](https://github.com/at-import/breakpoint) - Breakpoint makes writing media queries in Sass super simple.
 
-###Color
+### Color
 - [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
 - [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [Open color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 
-###Typography
+### Typography
 - [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
 - [Typi](https://github.com/zellwk/typi) - Sass mixin to make responsive typography easy.
 - [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover) - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
 - [Shevy](http://kyleshevlin.github.io/shevy/) - Typography made easy. A vertical rhythm library.
 
-###Animation
+### Animation
 - [Sass Burger](https://github.com/jorenvanhee/sass-burger) - Sass mixin for creating animated hamburger icon.
 - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - Set of SCSS mixins for single element loaders and spinners.
 - [Animate.scss](https://github.com/geoffgraham/animate.scss) -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
 - [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
 
-###Miscellaneous
+### Miscellaneous
 - [Bourbon](http://bourbon.io/) - Simple and lightweight mixin library for Sass.
 - [Family.scss](http://lukyvj.github.io/family.scss/) - Set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
 - [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
