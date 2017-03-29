@@ -135,6 +135,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Scout-App](http://scout-app.io/) - Process your Sass and SCSS files into CSS without needing any knowledge of the command line.
 - [sass-rails](https://github.com/rails/sass-rails) - Ruby on Rails stylesheet engine for Sass.
 - [scss-lint](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS.
+- [github.com/OctoLinker/browser-extension](https://github.com/OctoLinker/browser-extension) - Navigate through *.scss files efficiently with the OctoLinker browser extension for GitHub.
 
 ## Books
 - [Sass in the Real World: Book I of IV](https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/)
