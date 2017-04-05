@@ -55,6 +55,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
 - [Hocus-Pocus](http://hocus-pocus.io) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
 - [Materialize](http://materializecss.com) - Modern responsive front-end framework based on Material Design.
+- [Bulma](https://github.com/jgthms/bulma) - A modern CSS framework based on Flexbox.
 
 ## Libraries and Mixins
 
