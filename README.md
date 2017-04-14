@@ -140,6 +140,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [sass-rails](https://github.com/rails/sass-rails) - Ruby on Rails stylesheet engine for Sass.
 - [scss-lint](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS.
 - [OctoLinker](https://github.com/OctoLinker/browser-extension) - Navigate through *.scss and *.sass files efficiently with the OctoLinker browser extension for GitHub.
+- [stylelint](https://stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
 
 ## Books
 - [Sass in the Real World: Book I of IV](https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/)
