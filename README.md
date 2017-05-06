@@ -56,6 +56,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Hocus-Pocus](http://hocus-pocus.io) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
 - [Materialize](http://materializecss.com) - Modern responsive front-end framework based on Material Design.
 - [Bulma](https://github.com/jgthms/bulma) - A modern CSS framework based on Flexbox.
+- [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
 
 ## Libraries and Mixins
 
