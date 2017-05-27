@@ -57,6 +57,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Materialize](http://materializecss.com) - Modern responsive front-end framework based on Material Design.
 - [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
 - [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
+- [mini.css](http://minicss.org/) - Minimal, responsive, style-agnostic CSS framework.
 
 ## Libraries and Mixins
 
