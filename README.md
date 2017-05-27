@@ -58,6 +58,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
 - [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
 - [mini.css](http://minicss.org/) - Minimal, responsive, style-agnostic CSS framework.
+- [avalanche](https://avalanche.oberlehner.net) - avalanche establishes the foundation for a package based CSS workflow.
 
 ## Libraries and Mixins
 
@@ -71,7 +72,6 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Avalanche](http://colourgarden.net/avalanche) - Lightweight, responsive, Sass-based, BEM-syntax grid system.
 - [Toast](http://daneden.github.io/Toast/) - Flexible and lightweight grid framework from the creator of [animate.css](https://daneden.github.io/animate.css/).
 - [Jeet](https://github.com/mojotech/jeet) - Simple fractional grid system for Sass and Stylus.
-- [avalanche](https://avalanche.oberlehner.net) - avalanche establishes the foundation for a package based CSS workflow.
 
 ### Media Queries
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
