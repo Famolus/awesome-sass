@@ -53,7 +53,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 - [Sierra](http://sierra-library.github.io/) - Micro SCSS library to help you build websites, without all the arbitrary selectors.
 - [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
-- [Hocus-Pocus](http://hocus-pocus.io) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
+- [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
 - [Materialize](http://materializecss.com) - Modern responsive front-end framework based on Material Design.
 - [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
 - [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
