@@ -64,6 +64,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Grid
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
+- [Gride](https://github.com/guuibayer/gride) - Gride is a stylus and scss, simple and flexible grid system.
 - [Gridlex](http://gridlex.devlint.fr/) - Flexbox grid system.
 - [Neat](http://neat.bourbon.io/) - Lightweight semantic grid framework built with Sass.
 - [SCSS Flexible Grid System](http://flexible.gs/install/scss) - SCSS flexible grid system.
