@@ -74,7 +74,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Toast](http://daneden.github.io/Toast/) - Flexible and lightweight grid framework from the creator of [animate.css](https://daneden.github.io/animate.css/).
 - [Jeet](https://github.com/mojotech/jeet) - Simple fractional grid system for Sass and Stylus.
 - [Griddle](http://necolas.github.io/griddle/) - Extremely flexable CSS grid constructor.
-- [Waffle-Grid](https://lucasgruwez.github.io/waffle-grid/) - An easy to use flexbox grid system. (written in Scss)
+- [Waffle Grid](https://lucasgruwez.github.io/waffle-grid/) - Easy to use flexbox grid system.
 
 ### Media Queries
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
