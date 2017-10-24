@@ -59,7 +59,6 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
 - [mini.css](http://minicss.org/) - Minimal, responsive, style-agnostic CSS framework.
 - [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
-- [Kaliber](https://github.com/robbinfellow/kaliber) - Tiny but powerful CSS framework based on Flexbox.
 
 ## Libraries and Mixins
 
@@ -119,7 +118,6 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
 - [BigCommerce Sass Coding Guidelines](https://github.com/bigcommerce/sass-style-guide) - Guidelines in use at BigCommerce.
 - [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) - Sass and CSS style guide by Airbnb.
-- [edX Sass and CSS Style Guide](https://github.com/edx/ux-pattern-library/wiki/Styleguide:-Sass-&-CSS) - Sass and CSS style guide by edX.
 - [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
 
 ## Articles
