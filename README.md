@@ -149,7 +149,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [stylelint](https://stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
 - [diamond](https://diamond.js.org) - Dependency management built for Sass, Less, and CSS.
 - [node-sass-magic-importer](https://github.com/maoberlehner/node-sass-magic-importer) - Custom node-sass importer for selector specific imports, node importing, module importing, globbing support and importing files only once.
-- [SharpScss](https://github.com/xoofx/SharpScss) - A P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform.
+- [SharpScss](https://github.com/xoofx/SharpScss) - P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform.
 
 ## Books
 - [Sass in the Real World: Book I of IV](https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/)
