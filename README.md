@@ -11,7 +11,6 @@
 - [About](#about)
 - [Getting Started](#getting-started)
 - [Sass vs SCSS](#sass-vs-scss)
-- [Sass Cheatsheet](#sass-cheatsheet)
 - [Frameworks](#frameworks)
 - [Libraries and Mixins](#libraries-and-mixins)
   - [Grid](#grid)
@@ -41,14 +40,12 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Lynda](https://www.lynda.com/SASS-training-tutorials/1435-0.html) - Learn how to use Sass, from beginner basics to advanced techniques, with online video tutorials taught by industry experts.
 - [Official Sass and SCSS Reference](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) - Official Sass and SCSS Documentation Reference.
 - [SitePoint Sass and SCSS Reference](https://www.sitepoint.com/sass-reference/) - SitePoint Sass and SCSS reference.
+- [Sass Latest Cheatsheet](https://github.com/code4mk/sass-cheatsheet) - Sass Latest cheatsheet with pdf file.
 
 ## Sass vs SCSS
 - [SitePoint](https://www.sitepoint.com/whats-difference-sass-scss/) - What’s the difference between Sass and SCSS?
 - [The Sass Way](http://thesassway.com/editorial/sass-vs-scss-which-syntax-is-better) - Which syntax is better?
 - [Stack Overflow](http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass) - What's the difference between SCSS and Sass?
-
-## Sass Cheatsheet
-- [Sass Latest Cheatsheet](https://github.com/code4mk/sass-cheatsheet) - Sass Latest cheatsheet with pdf file.
 
 ## Frameworks
 - [Bootstrap 4](https://github.com/twbs/bootstrap) - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
