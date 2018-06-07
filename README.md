@@ -136,6 +136,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [A Tale of CSS and Sass Precision](https://www.sitepoint.com/a-tale-of-css-and-sass-precision/)
 - [Build a Style Guide Straight from Sass](https://css-tricks.com/build-style-guide-straight-sass/)
 - [Advanced SCSS, or, 16 cool things you may not have known your stylesheets could do](https://gist.github.com/jareware/4738651)
+- [The 80-20 Approach to Sustainable SCSS](https://zendev.com/2018/05/30/the-80-20-approach-to-sustainable-scss.html)
 
 ## Tools
 - [libsass](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
