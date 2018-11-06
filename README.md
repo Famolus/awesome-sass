@@ -66,8 +66,8 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
 - [Gridlex](http://gridlex.devlint.fr/) - Flexbox grid system.
 - [Neat](http://neat.bourbon.io/) - Lightweight semantic grid framework built with Sass.
-- [SCSS Flexible Grid System](http://flexible.gs/install/scss) - SCSS flexible grid system.
-- [Sass Flexible Grid System](http://flexible.gs/install/sass) - Sass flexible grid system.
+- [SCSS Flexible Grid System](https://dnomak.com/flexiblegs/install/scss/) - SCSS flexible grid system.
+- [Sass Flexible Grid System](https://dnomak.com/flexiblegs/install/sass/) - Sass flexible grid system.
 - [Susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass.
 - [Avalanche](http://colourgarden.net/avalanche) - Lightweight, responsive, Sass-based, BEM-syntax grid system.
 - [Toast](http://daneden.github.io/Toast/) - Flexible and lightweight grid framework from the creator of [animate.css](https://daneden.github.io/animate.css/).
@@ -77,7 +77,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Media Queries
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
-- [Sass MediaQueries](http://paranoida.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
+- [Sass MediaQueries](http://rafalbromirski.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
 - [Sass MQ](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way.
 - [Breakpoint](https://github.com/at-import/breakpoint) - Breakpoint makes writing media queries in Sass super simple.
 - [mq-scss](https://github.com/Dan503/mq-scss) - An extreamly powerful but easy to use Sass media query mixin.
