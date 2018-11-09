@@ -115,6 +115,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Juice](http://kylebrumm.com/juice/) - Collection of Sass mixins and functions.
 - [Sass Deprecate](https://github.com/salesforce-ux/sass-deprecate) - Sass mixin that helps managing code deprecation.
 - [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox) -  SCSS/CSS library to beautify checkbox and radio buttons.
+- [SCSS mixins collection](https://github.com/RusinovAnton/scss-mixins-collection) - collection of handy scss mixins.
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
