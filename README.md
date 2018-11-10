@@ -99,6 +99,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - Set of SCSS mixins for single element loaders and spinners.
 - [Animate.scss](https://github.com/geoffgraham/animate.scss) -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
 - [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
+- [Kf](https://kf-sass.com) - Sass mixin library for creating keyframe-based animations from maps.
 
 ### Miscellaneous
 - [Bourbon](http://bourbon.io/) - Simple and lightweight mixin library for Sass.
