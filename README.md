@@ -167,6 +167,8 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Sass Tutorial](https://www.youtube.com/watch?v=wz3kElLbEHE)
 - [Series of Sass tutorials showing the installing of, the basics, and using key features](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
 - [Sass or LESS? What should you use?](https://www.youtube.com/watch?v=lJclQekSfSM)
+- [Learn Sass in this Free Crash Course - Give your CSS Superpowers!](https://www.youtube.com/watch?v=roywYSEPSvc)
+- [The Net Ninja Sass playlist](https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA)
 
 ## Community
 - [Reddit](https://www.reddit.com/r/Sass/)
