@@ -59,6 +59,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
 - [mini.css](http://minicss.org/) - Minimal, responsive, style-agnostic CSS framework.
 - [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
+- [awsm.css](https://igoradamenko.github.io/awsm.css/) - CSS library for semantic HTML markup without classes, attributes, etc.
 
 ## Libraries and Mixins
 
