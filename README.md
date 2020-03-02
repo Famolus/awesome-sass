@@ -104,6 +104,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 ### Miscellaneous
 - [Angled Edges](https://github.com/josephfusco/angled-edges) - Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
 - [Bourbon](http://bourbon.io/) - Simple and lightweight mixin library for Sass.
+- [Buttono](https://github.com/hsnaydd/buttono) - A flexible Sass mixin for creating BEM-style buttons.
 - [Buttons](https://github.com/alexwolfe/Buttons) - CSS button library built using Sass and Compass.
 - [csstyle](https://csstyle.io) - A SCSS library to help you build modular CSS that generates your selectors for you and deals with specificity automatically.
 - [Family.scss](http://lukyvj.github.io/family.scss/) - Set of 26 smart Sass mixins which will help you to manage the style of :nth-child’ified elements, in an easy and classy way.
