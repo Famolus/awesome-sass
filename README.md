@@ -77,7 +77,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Media Queries
 - [Breakpoint](https://github.com/at-import/breakpoint) - Breakpoint makes writing media queries in Sass super simple.
-- [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
+- [include-media](https://eduardoboucas.github.io/include-media/) - Simple, elegant and maintainable media queries.
 - [mq-scss](https://github.com/Dan503/mq-scss) - An extreamly powerful but easy to use Sass media query mixin.
 - [Sass MediaQueries](http://rafalbromirski.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
 - [Sass MQ](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way.
