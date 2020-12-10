@@ -51,6 +51,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Bootstrap 4](https://github.com/twbs/bootstrap) - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3.
 - [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox.
+- [Cirrus](https://github.com/Spiderpig86/Cirrus) - A component and utility centric SCSS framework designed for rapid prototyping.
 - [Foundation for Sites](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
 - [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
