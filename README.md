@@ -84,7 +84,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Sass MQ](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way.
 
 ### Color
-- [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
+- [brand-colors](https://brand-colors.re.im/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [Open color](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 - [sass-planifolia](https://github.com/xi/sass-planifolia) - Advanced color manipulation and contrast calculation in vanilla Sass.
 - [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
