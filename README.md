@@ -120,6 +120,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
 - [Sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
 - [Scut](https://github.com/davidtheclark/scut) - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
+- [create-scss-cli](https://createscss.com) - A CLI that generates an scss folder structure directly into your project. It gives you a range of different templates to choose from, making it flexible to integrate into any project.
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
