@@ -45,6 +45,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [SitePoint](https://www.sitepoint.com/whats-difference-sass-scss/) - What’s the difference between Sass and SCSS?
 - [The Sass Way](http://thesassway.com/editorial/sass-vs-scss-which-syntax-is-better) - Which syntax is better?
 - [Stack Overflow](http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass) - What's the difference between SCSS and Sass?
+- [InterviewBit](https://www.interviewbit.com/blog/sass-vs-scss/) - SASS Vs SCSS: Full Comparison
 
 ## Frameworks
 - [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
