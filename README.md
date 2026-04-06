@@ -7,6 +7,7 @@
 - Use <kbd>command</kbd> + <kbd>F</kbd> or <kbd>ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
 - Contributions welcome, please see [contribution guide](contributing.md).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Sass/CSS workflow orchestration, automated frontend pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 - [About](#about)
 - [Getting Started](#getting-started)
