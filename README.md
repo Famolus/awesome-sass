@@ -60,6 +60,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [mini.css](http://minicss.org/) - Minimal, responsive, style-agnostic CSS framework.
 - [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 - [Sierra](http://sierra-library.github.io/) - Micro SCSS library to help you build websites, without all the arbitrary selectors.
+* [WovenUI](https://wovenui.com) - Utility-first SCSS framework where apply() turns every utility into a mixin for any value, state, or breakpoint, and invalid input fails the build. VSCode extension is also available.
 
 ## Libraries and Mixins
 
